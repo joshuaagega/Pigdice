@@ -1,0 +1,52 @@
+.header{
+text-align: center;
+}
+p {
+text-align: center;
+}
+.col-md-4 {
+  padding : 30px 0;
+}
+#Total-1 {
+  margin: 70px;
+}
+#Total-2 {
+  margin: 70px;
+}
+
+#current-1{
+  margin: 0 auto;
+  height: 70px;
+  width: 70px;
+  background-color: #ABC2C2;
+  color: #fff;
+}
+
+#current-2{
+  margin: 0 auto;
+  height: 70px;
+  width: 70px;
+  background-color: #ABC2C2;
+  color: #fff;
+
+}
+
+.dyce {
+  width: 100px;
+  height: 100px;
+  border: 2px solid blue;
+  margin: 20px auto;
+  border-radius: 25px;
+  box-shadow: 5px 5px #888;
+}
+
+#dyce-1 {
+ font-size: 46px;
+ text-align: center;
+ padding-top: 17px;
+}
+#dyce-2 {
+  font-size: 46px;
+  text-align: center;
+  padding-top: 17px;
+}
